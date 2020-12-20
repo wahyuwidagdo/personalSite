@@ -5,7 +5,7 @@
 
 # Default template config dari hello-friend-ng's theme
 
-baseurl      = "localhost"
+baseurl      = "https://wahyu-f-widagdo.onrender.com/"
 title        = "Wahyu F.Widagdo"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
