@@ -34,6 +34,12 @@ paginate     = 10
   # Default theme "light" or "dark"
   defaultTheme = "light"
 
+    # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+   footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+   footerRight = "Made with &#10084; by <a href=\"https://github.com/wahyuwidagdo\">Wahyu F. Widagdo</a>"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
