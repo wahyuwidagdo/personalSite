@@ -12,11 +12,12 @@ Tetapi, beberapa saat setelah saya terbangun ada berita duka yaitu kecelakan pes
 
 Tapi ingat, setiap yang bernyawa, pasti akan mati. Lalu apa gunanya kita hidup di dunia ? Apa peran kita di dunia ? Mungkin jawabannya jadilah orang Hablum Minallah dan Hablum Minannas, atau setiap orang memiliki jawabannya masing-masing. Dan setidaknya jadilah orang yang bermanfaat bagi orang banyak dan sekitar kita. Tinggalkan warisan yang dapat membantu orang lain. Salah satunya ilmu pengetahuan.
 
-Menurutmu kapan seseorang dikatakan mati ?
-Ketika selongsong peluru dari senapan menembus jantungnya ? Tidak.
-Ketika terserang penyakit langka yang sulit disembuhkan ? Tidak.
-Ketika makan makanan beracun ? Tidak.
+Menurutmu kapan seseorang dikatakan mati ?  
+Ketika selongsong peluru dari senapan menembus jantungnya ? Tidak.  
+Ketika terserang penyakit langka yang sulit disembuhkan ? Tidak.  
+Ketika makan makanan beracun ? Tidak.  
 Seseorang mati ketika orang-orang melupakannya.
+
 
 ----
 
