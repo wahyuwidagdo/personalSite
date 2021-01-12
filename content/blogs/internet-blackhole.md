@@ -1,7 +1,7 @@
 ---
 title: "Internet Blackhole"
 date: 2021-01-12T11:15:54+07:00
-draft: true
+draft: false
 ---
 
 Pernah merasa mau belajar banyak hal tetapi berakhir tidak belajar apa-apa ?  
