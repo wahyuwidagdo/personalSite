@@ -11,7 +11,7 @@ Jadi, pesawat saya berangkat pukul 14:00. Dan saya berangkat dari kos pagi sekit
 
 Namun beruntungnya, ketika saya ke tempat checkin dan memberitahukan masalah saya. Tiket saya tidak jadi hangus dan masih bisa di reschedule. Akhirnya daripada saya membeli tiket ulang dengan harga yang mungkin bisa dikatakan sama, lebih baik saya ambil reschedule dengan biaya tambahan selisih harga tiket saya dengan harga tiket pesawat rechedulenya. Untungnya perbedaan harganya hanya Rp 100.000. Karena juga saya tidak terburu-buru jadinya jadwal keberangkatan saya di rechedule ke 17 Januari 2021. Toh, wisuda saya berlangsung tanggal 20 Januari 2021.
 
-Tips : Jika jadwal kereta di aplikasi KA Bandara sudah tidak ada. Langsung saja ke jalur kereta bandara dan tanya ke Satpam jadwal kereta bandara yang akan berangkat. Karena di aplikasi biasanya beberapa jam sebelum jadwal kereta sudah tidak memesan lewat aplikasi, tetapi tetap bisa memesan langsung di lobby kereta bandaranya.
+**Tips :** Jika jadwal kereta di aplikasi KA Bandara sudah tidak ada. Langsung saja ke jalur kereta bandara dan tanya ke Satpam jadwal kereta bandara yang akan berangkat. Karena di aplikasi biasanya beberapa jam sebelum jadwal kereta sudah tidak memesan lewat aplikasi, tetapi tetap bisa memesan langsung di lobby kereta bandaranya.
 
 Kembali ke wisuda. Wisuda offline yang saya rasakan tidak terasa begitu spesial, terasa biasa-biasa saja. Karena mengikuti protocol kesehatan yang ketat dan tidak dibolehkan membawa orang tua ke acara wisuda, yang datang hanya peserta wisuda. Terasa hambar bukan ? Orang tua tidak dapat melihat anaknya secara langsung dilantik wisuda.
 
