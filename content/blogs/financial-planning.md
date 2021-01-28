@@ -1,7 +1,7 @@
 ---
 title: "Financial Planning"
 date: 2021-01-25T23:12:26+07:00
-draft: true
+draft: false
 ---
 
 Yay, mungkin dari beberapa karyawan seperti saya tanggal segini sudah masuk tanggal gajian ya ? Atau harus menunggu sedikit lagi di awal bulan ?  
