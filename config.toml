@@ -62,25 +62,25 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
 # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+#  [[params.social]]
+#    name = "twitter"
+#    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:wahyuwidagdo31@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/wahyuwidagdo/"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/wahyu-widagdo-b43422175/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "instagram"
+    url  = "https://instagram.com/edowidagdo/"
 
   # And you can even create generic menu
   [[menu.main]]
