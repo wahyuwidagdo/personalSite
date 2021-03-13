@@ -6,7 +6,11 @@ draft: false
 
 Halo semua, perkenalkan saya Wahyu Fajri Widagdo. Tetapi orang-orang terdekat saya biasa memanggil saya Edo.
 
+----
+
 Hello everyone, I'm Wahyu Fajri Widagdo. But my family and my close friend call me Edo.
+
+----
 <!---
 #### Untuk sementara saya isikan dulu dari section personal profile dari CV saya.
 
@@ -27,6 +31,8 @@ It has been about 4 months I'm on my current job at BTPN Syariah. My position is
 
 Saat ini saya bekerja di BTPN Syariah sebagai Full Stack Developer. Mungkin dikatakan Full Stack tetapi sebenarnya apa yang saya lakukan selama 3 bulan terakhir adalah mengembangkan aplikasi dengan yang biasa disebut PowerApps dan menangani data dengan Azure SQL sebagai database.  
 Apa itu PowerApps, sederhananya PowerApps adalah serangkaian aplikasi, layanan, penghubung dan platform data yang menyediakan lingkungan untuk pengembangan aplikasi yang cepat untuk membangun aplikasi custom untuk kebutuhan/tujuan bisnis. Dan Azure SQL adalah database yang menangani data dari dan untuk PowerApps. Azure SQL sama atau hampir mirip dengan SQL Server. Azure SQL adalah database engine Paas (Platform as a Services) yang menangani sebagian besar fungsi manajemen databse. Dan Azure SQL selalu berjalan pada versi stabil terbaru dari engine database SQL Server.
+
+----
 
 Currently working at BTPN Syariah as a Full Stack Developer. You can call it Full Stack but actually what I did for the last 3 month is develop app with what we call PowerApps and handling data with Azure SQL as a database.  
 What is PowerApps, to make it simple PowerApps is a suite apps, services, connectors and data platform that provides a rapid application development environment to build a custom app for business need/purpose. And Azure SQL is the database that handle the data from  and for PowerApps. Azure SQL is just the same as SQL Server. Azure SQL is a PaaS (Platform as a Services) database engine that handles most of the database management functions. And Azure SQL always running on the latest stable version of the SQL Server database engine.
