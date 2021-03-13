@@ -1,6 +1,6 @@
 ---
 title: "Minimalism"
-date: 2021-02-30T23:10:49+07:00
+date: 2021-02-20T23:10:49+07:00
 draft: false
 ---
 
