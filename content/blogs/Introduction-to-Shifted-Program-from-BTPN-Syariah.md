@@ -1,0 +1,17 @@
+---
+title: "Introduction to Shifted Program From BTPN Syariah"
+date: 2021-03-17T00:03:26+07:00
+draft: false
+---
+
+Hai, kembali lagi setelah sekian lama belum ada nulis. Kali ini saya mau sharing tentang program yang saya ikuti yaitu Shifted (Sharia Intensive Fullstack Engineer Development) yang merupakan Program MT (Management Trainee) dari BTPN Syariah.
+
+Ketika saya ditanya oleh beberapa teman saya dimana saya bekerja dan saya menjawab di BTPN Syariah, seringkali setelah itu langsung muncul pertanyaan kedua yaitu apa itu BTPN Syariah. Ya memang tidak banyak orang tau nama dari tempat saya bekerja saat ini. Sebenarnya jika kita lihat dari namanya, kita sudah bisa menebak BTPN Syariah itu adalah nama sebuah bank, namun memang jarang terdengar di telinga masyarakat. Bahkan beberapa orangpun masih ada juga yang bingung atau tidak tau BTPN (BTPN Konvensional). Ketika saya nge-mention Jenius barulah beberapa teman ada yang mulai ngeh, perusahaan tempat dimana saya bekerja. Tetapi BTPN Syariah dengan BTPN (Konvensional) adalah 2 perusahaan yang berbeda, main bisnisnya saja sudah berbeda dan Jenius adalah product dari BTPN Konvensional bukan dari BTPN Syariah.
+
+Sebagian orang mungkin berpikir tempat saya bekerja ini kurang menarik karena dari nama saja tidak terlalu dikenal. Awalnyapun saya juga nggak terlalu tau soal BTPN Syariah, sampai saya meriset sedikit dan saya mulai bekerja disana saya mengetahui bahwa sesungguhnya bank ini nggak bisa dipandang sebelah mata. Baik dari segi keuangan yang sudah naik kelas ke buku III dan saham yang naik pesat tahun ini, dan juga culture kerjanya yang sangat amat ramah dan produktif serta kantor seperti startup-startup kekinian.
+
+Sekitar bulan September 2020, saat itu saya baru lulus sidang komprehensif. Teman dekat saya mengirimkan saya salah satu info dari postingan story dari senior kami di kampus, yang mana saya juga cukup kenal dengan senior tersebut dan dia bekerja disana juga. Isi dari postingan tersebut adalah lowongan program dari BTPN Syariah tentang Program Shifted (Sharia Intensive Fullstack Engineer Development). Saya yang saat itu baru selesai kompre dan belum memiliki pekerjaan (walaupun ada ngambil project kecil-kecilan dari perusahaan kenalan saya di Jakarta) berinisiatif atau bisa dibilang iseng juga sih, apply/mendaftar ke program tersebut. Hanya bermodalkan CV yang sudah saya buat dengan sebaik mungkin tentunya dibantu dengan beberapa teman dekat diskusi terkait content dari CV nya. Beberapa minggu setelah itu saya di hubungi oleh pihak BTPN Syariah. Dan alhamdulilah saya diterima di BTPN Syariah dalam program Shiftednya (Untuk detail terkait proses dan pengalaman dari daftar sampai on boardingnya akan saya tulis di blog terpisah).
+
+##### Summary
+Jadi program Shifted ini merupakan program Management Trainee dari BTPN Syariah yang berfokus dalam mencari dan mengembangkan talent-talent yang berbakat di bidang pengembangan software. Bisa dibilang program MT ini juga disebut sebagai program akselerasi. Program MT tidak harus melulu ke bagian IT, ada berbagai macam program MT, mulai dari finance, marketing, komunikasi, dll.  
+Ada program yang mirip seperti Shifted yang saya ketahui yaitu CHiP dari BTPN dan berbagai macam program lainnya.
